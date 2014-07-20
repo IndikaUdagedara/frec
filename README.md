@@ -1,5 +1,5 @@
 
-FREC - A little Face RECognition program
+FREC - A Face RECognition program
 
 --------------------
 Overview
@@ -152,9 +152,9 @@ Copyright
 --------------------
 See LICENCE for details
 
-FREC - A little Face RECognition program
-Copyright (C) 2008 Indika Bandara Udagedara 
-email: indikabandara19@yahoo.com
+FREC - A Face RECognition program
+Copyright (C) 2008 Indika Udagedara 
+email: indika.udagedara@gmail.com
 
 
 
