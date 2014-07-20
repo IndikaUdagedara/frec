@@ -1,0 +1,34 @@
+aegis: project "frec.1.0": change 43: creating symbolic links to baseline
+aegis: project "frec.1.0": change 43: user "indika" has begun development
+aegis: project "frec.1.0": change 43: file "App.C" copied
+aegis: project "frec.1.0": change 43: file "App.H" copied
+aegis: project "frec.1.0": change 43: file "EigenMethod.C" copied
+aegis: project "frec.1.0": change 43: file "EigenMethod.H" copied
+aegis: project "frec.1.0": change 43: file "Face.C" copied
+aegis: project "frec.1.0": change 43: file "Face.H" copied
+aegis: project "frec.1.0": change 43: file "FaceDetector.C" copied
+aegis: project "frec.1.0": change 43: file "FaceDetector.H" copied
+aegis: project "frec.1.0": change 43: file "INSTALL" copied
+aegis: project "frec.1.0": change 43: file "Kernel.C" copied
+aegis: project "frec.1.0": change 43: file "Kernel.H" copied
+aegis: project "frec.1.0": change 43: file "LICENSE" copied
+aegis: project "frec.1.0": change 43: file "Loader.C" copied
+aegis: project "frec.1.0": change 43: file "Loader.H" copied
+aegis: project "frec.1.0": change 43: file "Logger.C" copied
+aegis: project "frec.1.0": change 43: file "Logger.H" copied
+aegis: project "frec.1.0": change 43: file "Makefile" copied
+aegis: project "frec.1.0": change 43: file "PreProcessor.H" copied
+aegis: project "frec.1.0": change 43: file "PreProcessorEx.C" copied
+aegis: project "frec.1.0": change 43: file "PreProcessorEx.H" copied
+aegis: project "frec.1.0": change 43: file "README" copied
+aegis: project "frec.1.0": change 43: file "Recognizer.H" copied
+aegis: project "frec.1.0": change 43: file "Utils.C" copied
+aegis: project "frec.1.0": change 43: file "Utils.H" copied
+aegis: project "frec.1.0": change 43: file "aegis.conf" copied
+aegis: project "frec.1.0": change 43: file "common.H" copied
+aegis: project "frec.1.0": change 43: file "frec.conf" copied
+aegis: project "frec.1.0": change 43: file "main.C" copied
+aegis: project "frec.1.0": change 43: file "scripts/eig_report.py" copied
+aegis: project "frec.1.0": change 43: file "scripts/tolist.sh" copied
+aegis: project "frec.1.0": change 43: file "test.C" copied
+aegis: project "frec.1.0": change 43: copied 31 files

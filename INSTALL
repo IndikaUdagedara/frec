@@ -1,0 +1,27 @@
+--------------------
+PRE-REQUISITS
+--------------------
+
++ OpenCV
+	- ./configure --prefix=/usr/intel
+	- make && make install
+	- adjust /etc/ld.so.conf or appropriate /etc/ld.so.conf.d/file.conf
+	- ldconfig -v
+
+
++ YConfigFile
+	- make
+	- no install :-(	
+
+
+
+
+--------------------
+INSTALL
+--------------------
+
+- No autoconf support yet
+- change Makefile to reflect install paths of OpenCV and YConfigFile 
+- make
+
+
